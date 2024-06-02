@@ -105,7 +105,7 @@
 
 ###
 
-<p align="left">Other</p>
+<h2 align="left">Other</h2>
 
 ###
 
